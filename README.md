@@ -19,7 +19,9 @@ https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md
 
 ## Behavioral Guidelines
 
-These guidelines come from the global `C:\Users\username\.claude\CLAUDE.md`. No project-level `CLAUDE.md` was loaded for `E:\Claude.AndrejKarpathy`. The file says they favor caution over speed, and that judgment can be used on trivial tasks.
+These guidelines come from the global `C:\Users\username\.claude\CLAUDE.md`.
+No project-level `CLAUDE.md` was loaded for `E:\Claude.AndrejKarpathy`. 
+The file says they favor caution over speed, and that judgment can be used on trivial tasks.
 
 ### 1. Think Before Coding
 
