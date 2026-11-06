@@ -10,16 +10,16 @@ https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md
 
 1. Get `CLAUDE.md` from the source above.
    - get claude.md from https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md
-2. Install it as `.\claude.md`.
+2. Install `.\claude.md`
 3. Choose what to do next (any combination):
    - Copy it to the global folder too.
    - Remove the global copy.
    - Delete the project copy.
-4. Enter effective commands by entering: Show what behavioral guidelines are in effect for this project.
+4. Enter effective commands by entering: Show what behavioral guidelines are in effect for this project
 
 ## Behavioral Guidelines
 
-These guidelines come from the global `C:\Users\John\.claude\CLAUDE.md`. No project-level `CLAUDE.md` was loaded for `E:\Claude.AndrejKarpathy`. The file says they favor caution over speed, and that judgment can be used on trivial tasks.
+These guidelines come from the global `C:\Users\username\.claude\CLAUDE.md`. No project-level `CLAUDE.md` was loaded for `E:\Claude.AndrejKarpathy`. The file says they favor caution over speed, and that judgment can be used on trivial tasks.
 
 ### 1. Think Before Coding
 
